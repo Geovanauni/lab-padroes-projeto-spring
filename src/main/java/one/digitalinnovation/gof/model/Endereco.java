@@ -3,7 +3,6 @@ package one.digitalinnovation.gof.model;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
-
 @Entity
 public class Endereco {
 
